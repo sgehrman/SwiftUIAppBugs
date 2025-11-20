@@ -1,4 +1,3 @@
-import ExyteGrid
 import SwiftUI
 
 struct HelloWorldPane: View {
