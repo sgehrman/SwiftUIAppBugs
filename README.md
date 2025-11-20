@@ -60,3 +60,4 @@ Ignoring request to entangle context after pre-commit
 Entangling fence requested after pre-commit
 cannot add handler to 2 from 2 - dropping
 Warning: Invalid attempt to open a new transaction during CA commit. This is likely to break AppKit transactional behavior. Break on NSCGSTransactionCreatedDuringCommitError to debug.
+
