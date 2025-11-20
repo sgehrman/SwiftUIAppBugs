@@ -1,6 +1,8 @@
 
 I simply want to create an app with a sidebar and customizable toolbar, but making a new window or tab crashes the app.  If you remove the id: from .toolbar it works.  But I need a customizable toolbar (I'm updating a popular app that has had a customizable toolbar since 2001). So don't tell me "You'll just have to turn off customization".  Not an option, I need a solution, send undocumented hacks or whatever it takes.
 
+The Finder works exactly how I need it to work, so I know it's possible. See what the finder does and give me that work around.
+
 Been a macOS dev since 1988 and it's been buggy since day one and it's only getting worse. I'm attempting to migrate my Cocoa app to swiftUI and can't even get a basic window working
 
 I'm on Tahoe at the moment.
