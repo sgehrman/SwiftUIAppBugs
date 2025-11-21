@@ -3,6 +3,13 @@ I simply want to create an app with a sidebar and customizable toolbar, but maki
 
 The Finder works exactly how I need it to work, so I know it's possible. See what the finder does and give me that work around.
 
+And so far I've tried every solution known to man. Yes, I tried .toolbar(removing: .sidebarToggle) and then tried placing the Left Sidebar icon in the toolbar, but given the options in swiftUI for toolbar item placement nothing worked.  And the toolbar was acting weird and placement was crazy and didn't work, and I don't want someone able to customize toolbar and remove the toggle Sidebar button.
+
+I've also used the built in AI chat bot with Claude and it tried 40 or so different variations of hacks and Claude finally said. "I give up, it's a but in swiftUI"
+
+So don't respond with some "Try this..." without fully and completely testing your proposal. I've done 99% of the quick hacks, none worked.
+
+
 Been a macOS dev since 1988 and it's been buggy since day one and it's only getting worse. I'm attempting to migrate my Cocoa app to swiftUI and can't even get a basic window working
 
 I'm on Tahoe at the moment.
